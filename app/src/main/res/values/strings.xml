@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Kelompok Tiga</string>
+    <string name="kapanlagi_com">Kapanlagi.com</string>
+    <string name="insertlive">InsertLive</string>
+    <string name="gratis">gratis</string>
+    <string name="kpop">Kpop</string>
+    <string name="kios">Kios</string>
 </resources>
