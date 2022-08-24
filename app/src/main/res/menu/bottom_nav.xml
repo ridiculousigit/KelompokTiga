@@ -3,23 +3,23 @@
 
     <item
         android:id="@+id/untuk_anda"
-        android:title="untuk_anda"
-        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/untuk_anda"
+        android:icon="@drawable/account"
         />
     <item
         android:id="@+id/judul"
-        android:title="judul"
-        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/judul"
+        android:icon="@drawable/internet"
         />
     <item
         android:id="@+id/favorit"
-        android:title="favorit"
-        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/favorit"
+        android:icon="@drawable/star"
         />
     <item
         android:id="@+id/kios"
-        android:title="kios"
-        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/kios"
+        android:icon="@drawable/stall"
         />
 
 

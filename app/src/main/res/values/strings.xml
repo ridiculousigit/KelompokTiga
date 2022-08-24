@@ -2,7 +2,11 @@
     <string name="app_name">Kelompok Tiga</string>
     <string name="kapanlagi_com">Kapanlagi.com</string>
     <string name="insertlive">InsertLive</string>
-    <string name="gratis">gratis</string>
+    <string name="gratis">Gratis</string>
     <string name="kpop">Kpop</string>
     <string name="kios">Kios</string>
+    <string name="untuk_anda">Untuk_anda</string>
+    <string name="judul">Judul</string>
+    <string name="favorit">Favorit</string>
+    <string name="hiburan">Hiburan</string>
 </resources>
