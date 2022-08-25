@@ -3,11 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_iqbal.xml" value="0.1" />
+        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_faizal.xml" value="0.20416666666666666" />
+        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_iqbal.xml" value="0.2" />
         <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_qisthi.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/bg_toolbar.xml" value="0.1775" />
-        <entry key="app/src/main/res/layout/layout_faizal.xml" value="0.25" />
-        <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.2671875" />
       </map>
     </option>
   </component>
