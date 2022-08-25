@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/untuk"
+        android:title="Untuk Anda"
+        android:icon="@drawable/user_1"/>
+
+    <item android:id="@+id/judul"
+        android:title="Judul"
+        android:icon="@drawable/web"/>
+
+
+    <item android:id="@+id/fav"
+        android:title="Profile"
+        android:icon="@drawable/star"/>
+
+    <item android:id="@+id/kios"
+        android:title="Profile"
+        android:icon="@drawable/books"/>
+
+</menu>
