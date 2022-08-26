@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Kelompok Tiga</string>
+    <string name="kapanlagi_com">Kapanlagi.com</string>
+    <string name="insertlive">InsertLive</string>
+    <string name="gratis">Gratis</string>
+    <string name="kpop">Kpop</string>
+    <string name="kios">Kios</string>
+    <string name="untuk_anda">Untuk_anda</string>
+    <string name="judul">Judul</string>
+    <string name="favorit">Favorit</string>
+    <string name="hiburan">Hiburan</string>
+    <string name="berita_sambo"><b>Jakarta, Insertlive - </b>Kapolri Jenderal Listyo Sigit Prabowo membenarkan soal isu Brigadir J alias Brigadir Yoshua melecehkan istri Ferdy Sambo, Putri Candrawathi. \n\nKapolri Sigit mulanya menjawab pertanyaan yang diajukan oleh Anggota Komisi III DPR RI Sarifuddin Suding di rapat kerja bersama Komisi III DPR di gedung DPR/MPR, Jakarta, Rabu (24/8). \n\nSarifuddin Suding menekan Kapolri Sigit untuk menjawab pertanyaannya soal isu Brigadir Yoshua melecehkan Putri Candrawathi yang selama ini beredar.</string>
+    <string name="navigasi_multimedia"><b>Multimedia</b> \n   1/12</string>
+    <string name="judul_multimedia"><b>Bagaimana cara mengambil foto menggunakan Stiker AR?</b></string>
+    <string name="berita_multimedia">Buka Kamera > Lainnya > Sticker AR. Ketuk ikon Stiker di sudut kanan bawah, pilih stiker pilihan Anda, dan ambil foto.</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="title">Bagaimana cara memainkan game tanpa terganggu notifikasi atau panggilan telepon?</string>
+    <string name="subTitle">Buka Pengaturan > Mode Game Ultra, lalu nyalakan Bisukan notifikasi dan Panggilan latar belakang. Anda dapat menikmati pengalaman barmain game penuh tanpa perlu terganggu oleh panggilan masuk atau notifikasi.</string>
+    
+    <string name="paragrafPersonalisasi">Masuk ke pengaturan. Cari hidupkan/matikan layar pintar > hidupkan Angkat  untuk membangunkan. Kemudian layar akan secara otomatis bangun ketika Anda mengangkat telepon dari permukaan datar.</string>
 </resources>

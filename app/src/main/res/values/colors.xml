@@ -6,7 +6,10 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="gray">#DFDFDF</color>
+    <color name="semi_black">#1D1D1D</color>
     <color name="white">#FFFFFFFF</color>
-
-    <color name="blue">#3F51B5</color>
+    <color name="second_gray">#5F5F5F</color>
+    <color name="blue">#004FEF</color>
+    <color name="bluebuttoncoba">#5a82fc</color>
 </resources>
