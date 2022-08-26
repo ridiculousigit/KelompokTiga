@@ -96,6 +96,7 @@
                 android:text="tambahkan topik"
                 android:textColor="@color/blue"
                 android:textSize="16dp"/>
+<!--                -->
 
         </LinearLayout>
 
@@ -184,35 +185,6 @@
 
         </LinearLayout>
     </LinearLayout>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_nav"

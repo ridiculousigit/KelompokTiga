@@ -16,4 +16,6 @@
     <string name="pengaturan">Pengaturan</string>
     <string name="title">Bagaimana cara memainkan game tanpa terganggu notifikasi atau panggilan telepon?</string>
     <string name="subTitle">Buka Pengaturan > Mode Game Ultra, lalu nyalakan Bisukan notifikasi dan Panggilan latar belakang. Anda dapat menikmati pengalaman barmain game penuh tanpa perlu terganggu oleh panggilan masuk atau notifikasi.</string>
+    
+    <string name="paragrafPersonalisasi">Masuk ke pengaturan. Cari hidupkan/matikan layar pintar > hidupkan Angkat  untuk membangunkan. Kemudian layar akan secara otomatis bangun ketika Anda mengangkat telepon dari permukaan datar.</string>
 </resources>
