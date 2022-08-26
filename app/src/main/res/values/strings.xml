@@ -13,4 +13,7 @@
     <string name="navigasi_multimedia"><b>Multimedia</b> \n   1/12</string>
     <string name="judul_multimedia"><b>Bagaimana cara mengambil foto menggunakan Stiker AR?</b></string>
     <string name="berita_multimedia">Buka Kamera > Lainnya > Sticker AR. Ketuk ikon Stiker di sudut kanan bawah, pilih stiker pilihan Anda, dan ambil foto.</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="title">Bagaimana cara memainkan game tanpa terganggu notifikasi atau panggilan telepon?</string>
+    <string name="subTitle">Buka Pengaturan > Mode Game Ultra, lalu nyalakan Bisukan notifikasi dan Panggilan latar belakang. Anda dapat menikmati pengalaman barmain game penuh tanpa perlu terganggu oleh panggilan masuk atau notifikasi.</string>
 </resources>
