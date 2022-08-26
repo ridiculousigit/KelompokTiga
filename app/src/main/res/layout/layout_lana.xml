@@ -94,7 +94,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="@dimen/dp10"
                 android:text="tambahkan topik"
-                android:textColor="@color/bttn"
+                android:textColor="@color/blue"
                 android:textSize="16dp"/>
 
         </LinearLayout>
@@ -163,7 +163,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="@dimen/dp10"
                 android:text="tambahkan sumber"
-                android:textColor="@color/bttn"
+                android:textColor="@color/blue"
                 android:textSize="16dp"/>
 
         </LinearLayout>
