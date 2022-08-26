@@ -3,16 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_iqbal.xml" value="0.1" />
+        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_faizal.xml" value="0.20416666666666666" />
+        <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_iqbal.xml" value="0.2" />
         <entry key="..\:/TUGAS KULIAH/KelompokTiga/app/src/main/res/layout/layout_qisthi.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/background_toolbar.xml" value="0.122" />
-        <entry key="app/src/main/res/drawable/ic_baseline_bookmarks_24.xml" value="0.122" />
-        <entry key="app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.122" />
-        <entry key="app/src/main/res/drawable/transparent.xml" value="0.122" />
-        <entry key="app/src/main/res/layout/layout_faizal_dua.xml" value="0.1693840579710145" />
-        <entry key="app/src/main/res/layout/layout_lana.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/layout_lana_dua.xml" value="0.22" />
-        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.21041666666666667" />
       </map>
     </option>
   </component>
